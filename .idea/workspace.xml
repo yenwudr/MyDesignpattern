@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="myDesignPattern" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee28d745-c493-4a53-a5fd-25c2f323b602" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/aopModel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/aspectj/LoggerAspectj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/LoginDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/model/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/main/resources/aop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/main/resources/appcontext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aopModel/src/test/java/MemberServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunInvocationHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Circel.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Circel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatingMode/src/main/java/prototypePattern/PrototypePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatingMode/src/main/java/prototypePattern/PrototypePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/creatingMode/target/" />
+    <ignored path="$PROJECT_DIR$/structuralMode/target/" />
+    <ignored path="$PROJECT_DIR$/creatingMode/factoryPattern/target/" />
+    <ignored path="$PROJECT_DIR$/springtest/target/" />
+    <ignored path="$PROJECT_DIR$/aopModel/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="appcontext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aopModel/src/main/resources/appcontext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aop.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aopModel/src/main/resources/aop.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberServiceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aopModel/src/test/java/MemberServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/MemberService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="beans.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aopModel/src/main/resources/beans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/LoginDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding>
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/MemberDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/LoginService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoggerAspectj.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/aspectj/LoggerAspectj.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aopModel/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clone=super.clone();</find>
+      <find>BigDecimal</find>
+      <find>applicationEventMulticaster</find>
+      <find>调用DisposableBean.destroy()</find>
+      <find>beandefinition</find>
+      <find>loadBeanDefinitions</find>
+      <find>lazyInit</find>
+      <find>getAnnotationAttributes</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/impl/coke.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/impl/Coke.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/impl/Pepsi.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/impl/MealBuilder.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/action/MealBuilder.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/impl/Meal.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/demo/BuilderPatternDemo.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/readme" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/prototypePattern/Shape.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/prototypePattern/Square.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/prototypePattern/Rectangle.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/prototypePattern/ShapeCache.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/prototypePattern/PrototypePatternDemo.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/beanfactory/MyInstantiationAwareBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/model/Car.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/beanfactory/MyBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/resources/com/beans.xml" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/model/A.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/model/B.java" />
+        <option value="$PROJECT_DIR$/springtest/src/test/java/teset.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/BeanLifeCycle.java" />
+        <option value="$PROJECT_DIR$/creatingMode/src/main/java/template/JdbcTemplate.java" />
+        <option value="$PROJECT_DIR$/structuralMode/src/main/java/proxy/jdk/Person.java" />
+        <option value="$PROJECT_DIR$/structuralMode/src/main/java/proxy/jdk/User.java" />
+        <option value="$PROJECT_DIR$/structuralMode/src/main/java/proxy/jdk/Agency.java" />
+        <option value="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunInvocationHandle.java" />
+        <option value="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunAgency.java" />
+        <option value="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunClassLoader.java" />
+        <option value="$PROJECT_DIR$/structuralMode/src/main/java/proxy/jdk/TestProxy.java" />
+        <option value="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunProxy.java" />
+        <option value="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/$MyProxy.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/resources/appcontext.xml" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/aop.xml" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com.java/yun/aspectj/loginAspectj.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com.java/yun/aspectj/loggerAspectj.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com.java/yun/aspectj/LoggerAspectj.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com.java/yun/model/Member.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com.java/yun/service/LoginService.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com.java/yun/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/aopModel/pom.xml" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com/yun/aspectj/LoggerAspectj.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/resources/aop.xml" />
+        <option value="$PROJECT_DIR$/aopModel/src/test/java/MemberServiceTest.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/loginDao.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/LoginDao.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/memberDao.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/LoginService.java" />
+        <option value="$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/MemberService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="G:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com-yun-aop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com-yun-aop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springtest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springtest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="736" />
+    <option name="y" value="33" />
+    <option name="width" value="1232" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myDesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="structuralMode" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yun" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yun" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yun" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/aopModel/src/main/java/com/yun" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17003676" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="builderPattern.action" />
+      <recent name="builderPattern" />
+      <recent name="factory" />
+      <recent name="factory.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Workspace\idea-test\myDesignPattern\aopModel\src\main\resources" />
+      <recent name="G:\Workspace\idea-test\myDesignPattern\aopModel\src\main" />
+      <recent name="G:\Workspace\idea-test\myDesignPattern\structuralMode\src\main\java\proxy\yun" />
+      <recent name="G:\Workspace\idea-test\myDesignPattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yun.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Workspace\idea-test\myDesignPattern\aopModel\src\main\resources" />
+      <recent name="G:\Workspace\idea-test\myDesignPattern\aopModel\src\main\java" />
+      <recent name="G:\Workspace\idea-test\myDesignPattern\structuralMode\src\main\java\proxy" />
+      <recent name="G:\Workspace\idea-test\myDesignPattern\springtest\src\main\resources" />
+      <recent name="G:\Workspace\idea-test\myDesignPattern\creatingMode\src\main\resources\com" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MemberServiceTest">
+    <configuration name="BeanLifeCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeanLifeCycle" />
+      <module name="springtest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TestProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.jdk.TestProxy" />
+      <module name="structuralMode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="teset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teset" />
+      <module name="springtest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MemberServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aopModel" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MemberServiceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MemberServiceTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aopModel" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MemberServiceTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.teset" />
+      <item itemvalue="Application.BeanLifeCycle" />
+      <item itemvalue="Application.TestProxy" />
+      <item itemvalue="JUnit.MemberServiceTest.add" />
+      <item itemvalue="JUnit.MemberServiceTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MemberServiceTest" />
+        <item itemvalue="JUnit.MemberServiceTest.add" />
+        <item itemvalue="Application.TestProxy" />
+        <item itemvalue="Application.BeanLifeCycle" />
+        <item itemvalue="Application.teset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee28d745-c493-4a53-a5fd-25c2f323b602" name="Default" comment="" />
+      <created>1537070261792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537070261792</updated>
+      <workItem from="1537070263839" duration="523000" />
+      <workItem from="1537070836129" duration="13430000" />
+      <workItem from="1537159006953" duration="644000" />
+      <workItem from="1538013335023" duration="158000" />
+      <workItem from="1538014103238" duration="6722000" />
+      <workItem from="1538098023401" duration="1697000" />
+      <workItem from="1538118324830" duration="5697000" />
+      <workItem from="1538186174202" duration="10204000" />
+      <workItem from="1539009331847" duration="824000" />
+      <workItem from="1539146591462" duration="360000" />
+      <workItem from="1540999169153" duration="663000" />
+      <workItem from="1541203261469" duration="102000" />
+      <workItem from="1542199536379" duration="10210000" />
+      <workItem from="1542803636530" duration="1485000" />
+      <workItem from="1543240928855" duration="5306000" />
+      <workItem from="1543247104524" duration="1625000" />
+      <workItem from="1543326601674" duration="1733000" />
+      <workItem from="1543499592445" duration="3720000" />
+    </task>
+    <task id="LOCAL-00001" summary="我的设计模式测试，第一次提交，&#10;主要提交创建型模型&#10;工厂模式&#10;抽象工厂模式&#10;单例模式&#10;建造者模式&#10;原型模式">
+      <created>1537111158342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537111158342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MemberServiceTest_add - 2018.11.26 at 23h 26m 28s.xml">
+      <configuration name="MemberServiceTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest - 2018.11.26 at 23h 34m 55s.xml">
+      <configuration name="MemberServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest - 2018.11.26 at 23h 46m 07s.xml">
+      <configuration name="MemberServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest - 2018.11.26 at 23h 53m 52s.xml">
+      <configuration name="MemberServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest - 2018.11.26 at 23h 58m 56s.xml">
+      <configuration name="MemberServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest - 2018.11.27 at 00h 03m 00s.xml">
+      <configuration name="MemberServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest - 2018.11.27 at 00h 07m 26s.xml">
+      <configuration name="MemberServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest - 2018.11.27 at 22h 07m 18s.xml">
+      <configuration name="MemberServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest - 2018.11.27 at 22h 08m 32s.xml">
+      <configuration name="MemberServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest - 2018.11.27 at 22h 09m 03s.xml">
+      <configuration name="MemberServiceTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65103000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.11043873" side_tool="true" weight="0.5137457" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8895613" weight="0.40206185" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49924356" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3298969" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49848714" weight="0.3281787" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="我的设计模式测试，第一次提交，&#10;主要提交创建型模型&#10;工厂模式&#10;抽象工厂模式&#10;单例模式&#10;建造者模式&#10;原型模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="我的设计模式测试，第一次提交，&#10;主要提交创建型模型&#10;工厂模式&#10;抽象工厂模式&#10;单例模式&#10;建造者模式&#10;原型模式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/maven/repository/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE-sources.jar!/org/springframework/core/io/support/PathMatchingResourcePatternResolver.java</url>
+          <line>271</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/maven/repository/org/springframework/spring-beans/5.0.7.RELEASE/spring-beans-5.0.7.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java</url>
+          <line>390</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/maven/repository/org/springframework/spring-beans/5.0.7.RELEASE/spring-beans-5.0.7.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java</url>
+          <line>504</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/maven/repository/org/springframework/spring-beans/5.0.7.RELEASE/spring-beans-5.0.7.RELEASE-sources.jar!/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/maven/repository/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>1093</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="inputStream" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2821">
+          <caret line="622" column="27" selection-start-line="622" selection-start-column="21" selection-end-line="622" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springtest/src/main/java/BeanLifeCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="81" column="44" selection-start-line="81" selection-start-column="44" selection-end-line="81" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8250">
+          <caret line="353" column="12" selection-start-line="353" selection-start-column="12" selection-end-line="353" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatingMode/src/main/java/template/JdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/JdbcTemplateAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="67" column="27" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/JdbcTemplateAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="42" column="82" selection-start-line="42" selection-start-column="82" selection-end-line="42" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springtest/src/main/java/model/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springtest/src/main/java/beanfactory/MyBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/src.zip!/java/io/OutputStreamWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/src.zip!/java/io/FileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/jre/lib/rt.jar!/sun/misc/ProxyGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3943">
+          <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/src/main/java/proxy/jdk/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="702" column="4" selection-start-line="702" selection-start-column="4" selection-end-line="702" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/src/main/java/proxy/jdk/Agency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4450">
+          <caret line="224" column="20" selection-start-line="224" selection-start-column="20" selection-end-line="224" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunInvocationHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/src/main/java/proxy/jdk/TestProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunAgency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/$MyProxy.java" />
+    <entry file="file://$PROJECT_DIR$/structuralMode/target/classes/proxy/yun/$MyProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/src/main/java/proxy/jdk/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="1780" column="20" selection-start-line="1780" selection-start-column="20" selection-end-line="1780" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springtest/src/main/resources/com/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/config/spring-aop.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/junit/junit/4.8.1/junit-4.8.1-sources.jar!/org/junit/runner/RunWith.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotatedElementUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12625">
+          <caret line="546" column="86" selection-start-line="546" selection-start-column="76" selection-end-line="546" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24275">
+          <caret line="1014" column="39" selection-start-line="1014" selection-start-column="39" selection-end-line="1014" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structuralMode/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150" />
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-test/4.0.7.RELEASE/spring-test-4.0.7.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-test/3.2.6.RELEASE/spring-test-3.2.6.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-test/4.0.7.RELEASE/spring-test-4.0.7.RELEASE.jar!/org/springframework/test/context/MetaAnnotationUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="133" column="61" selection-start-line="133" selection-start-column="40" selection-end-line="133" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-beans/5.0.7.RELEASE/spring-beans-5.0.7.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2075">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-test/3.2.6.RELEASE/spring-test-3.2.6.RELEASE.jar!/org/springframework/test/context/TestContextManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2300">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/model/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE.jar!/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/maven/repository/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="244" column="61" lean-forward="true" selection-start-line="244" selection-start-column="61" selection-end-line="244" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/aspectj/LoggerAspectj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/main/resources/aop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/test/java/MemberServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/main/resources/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/main/resources/appcontext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/LoginDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/MemberDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>creatingMode:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>creatingMode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17003676" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

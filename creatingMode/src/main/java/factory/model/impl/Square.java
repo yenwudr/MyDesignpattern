@@ -5,6 +5,6 @@ import factory.model.Shape;
 public class Square implements Shape {
 
     public void draw() {
-        System.out.println("this is a Square");
+        System.out.println("this is aspectj Square");
     }
 }

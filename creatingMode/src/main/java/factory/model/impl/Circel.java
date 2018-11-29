@@ -6,6 +6,6 @@ public class Circel implements Shape {
 
 
     public void draw() {
-        System.out.println("this is a circel");
+        System.out.println("this is aspectj circel");
     }
 }
