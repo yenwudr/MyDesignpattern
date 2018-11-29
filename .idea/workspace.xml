@@ -7,27 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee28d745-c493-4a53-a5fd-25c2f323b602" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/aopModel/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/aspectj/LoggerAspectj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/LoginDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/MemberDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/model/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/main/resources/aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/main/resources/appcontext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aopModel/src/test/java/MemberServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunInvocationHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structuralMode/src/main/java/proxy/yun/YunProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Circel.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Circel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatingMode/src/main/java/factory/model/impl/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creatingMode/src/main/java/prototypePattern/PrototypePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/creatingMode/src/main/java/prototypePattern/PrototypePatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MemberService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MemberService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/MemberService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -83,6 +63,18 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="200">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -171,15 +163,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aopModel/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -212,7 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/impl/coke.java" />
         <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/impl/Coke.java" />
         <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/impl/Pepsi.java" />
         <option value="$PROJECT_DIR$/creatingMode/src/main/java/builderPattern/impl/MealBuilder.java" />
@@ -263,6 +245,7 @@
         <option value="$PROJECT_DIR$/aopModel/src/main/java/com/yun/dao/memberDao.java" />
         <option value="$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/LoginService.java" />
         <option value="$PROJECT_DIR$/aopModel/src/main/java/com/yun/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -312,7 +295,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="736" />
     <option name="y" value="33" />
     <option name="width" value="1232" />
@@ -349,90 +332,42 @@
             <path>
               <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="creatingMode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="creatingMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="creatingMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="creatingMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
+              <item name="creatingMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yun" type="462c0819:PsiDirectoryNode" />
-              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yun" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yun" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="aopModel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="structuralMode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -635,7 +570,7 @@
       <workItem from="1543240928855" duration="5306000" />
       <workItem from="1543247104524" duration="1625000" />
       <workItem from="1543326601674" duration="1733000" />
-      <workItem from="1543499592445" duration="3720000" />
+      <workItem from="1543499592445" duration="4449000" />
     </task>
     <task id="LOCAL-00001" summary="我的设计模式测试，第一次提交，&#10;主要提交创建型模型&#10;工厂模式&#10;抽象工厂模式&#10;单例模式&#10;建造者模式&#10;原型模式">
       <created>1537111158342</created>
@@ -680,7 +615,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65103000" />
+    <option name="totallyTimeSpent" value="65832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -771,13 +706,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_66/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2821">
-          <caret line="622" column="27" selection-start-line="622" selection-start-column="21" selection-end-line="622" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springtest/src/main/java/BeanLifeCycle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1725">
@@ -1162,6 +1090,16 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="200">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
