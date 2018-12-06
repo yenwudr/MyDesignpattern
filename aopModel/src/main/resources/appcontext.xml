@@ -8,7 +8,7 @@
        default-autowire="byName" default-lazy-init="false">
 
     <import resource="beans.xml"/>
-    <import resource="aop.xml"/>
+<!--    <import resource="aop.xml"/>-->
 
 
 </beans>

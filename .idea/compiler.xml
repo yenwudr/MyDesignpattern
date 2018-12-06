@@ -7,12 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="aopModel" />
-        <module name="springtest" />
+        <module name="com-yun-aop" />
         <module name="structuralMode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="factoryPattern" target="1.5" />
+      <module name="springtest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

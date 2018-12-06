@@ -10,7 +10,7 @@
    <context:component-scan base-package="com.yun.service"/>
    <!--<context:annotation-config />-->
 
-  <bean id="memberdao" class="com.yun.dao.memberDao" lazy-init="true">
+  <bean id="memberdao" class="com.yun.dao.MemberDao" lazy-init="true">
      <property name="name" value="tom"/>
      <property name="age" value="12"/>
      <property name="arr">
@@ -28,7 +28,7 @@
      </property>
   </bean>
 
-   <bean id="logindao" class="com.yun.dao.loginDao"  init-method="initLogin">
+   <bean id="logindao" class="com.yun.dao.LoginDao"  init-method="initLogin">
       <property name="time" value="129658"></property>
    </bean>
 

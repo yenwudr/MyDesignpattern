@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<beans xmlns="http://www.springframework.org/schema/beans"
+<beans
+        xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:p="http://www.springframework.org/schema/p"
        xmlns:context="http://www.springframework.org/schema/context"
@@ -7,7 +8,29 @@
 										http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd"
        default-autowire="byName" default-lazy-init="false">
    <context:component-scan base-package="com.yun.service"/>
-   <context:annotation-config />
+   <!--<context:annotation-config />-->
+
+  <bean id="memberdao" class="com.yun.dao.MemberDao" lazy-init="true">
+     <property name="name" value="tom"/>
+     <property name="age" value="12"/>
+     <property name="arr">
+        <list>
+           <value>"11"</value>
+           <value>"ewe"</value>
+           <value>"天后"</value>
+        </list>
+     </property>
+     <property name="stringMap">
+        <map>
+           <entry key="where" value="125"/>
+           <entry key="when" value="458"/>
+        </map>
+     </property>
+  </bean>
+
+   <bean id="logindao" class="com.yun.dao.LoginDao"  init-method="initLogin">
+      <property name="time" value="129658"></property>
+   </bean>
 
 
 

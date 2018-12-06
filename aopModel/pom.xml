@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <!--<parent>-->
-        <!--<artifactId>myDesignPattern</artifactId>-->
-        <!--<groupId>com.yun</groupId>-->
-        <!--<version>1.0-SNAPSHOT</version>-->
-    <!--</parent>-->
+    <parent>
+        <artifactId>myDesignPattern</artifactId>
+        <groupId>com.yun</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
 
@@ -16,9 +16,11 @@
 
     <properties>
         <!-- dependency versions -->
-        <spring.version>3.2.6.RELEASE</spring.version>
+        <spring.version>5.0.7.RELEASE</spring.version>
         <servlet.api.version>2.4</servlet.api.version>
     </properties>
+
+
 
     <dependencies>
         <!-- spring framework start -->
@@ -90,7 +92,13 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.8.1</version>
+            <version>4.12</version>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.1.1</version>
+            <scope>test</scope>
         </dependency>
 
         <!-- others end -->
